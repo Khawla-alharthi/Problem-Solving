@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\bin\Debug\net8.0\White&BlackBalls.exe
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\bin\Debug\net8.0\White&BlackBalls.deps.json
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\bin\Debug\net8.0\White&BlackBalls.runtimeconfig.json
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\bin\Debug\net8.0\White&BlackBalls.dll
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\bin\Debug\net8.0\White&BlackBalls.pdb
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\obj\Debug\net8.0\White&BlackBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\obj\Debug\net8.0\White&BlackBalls.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\obj\Debug\net8.0\White&BlackBalls.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\obj\Debug\net8.0\White&BlackBalls.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\obj\Debug\net8.0\White&BlackBalls.dll
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\obj\Debug\net8.0\refint\White&BlackBalls.dll
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\obj\Debug\net8.0\White&BlackBalls.pdb
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\obj\Debug\net8.0\White&BlackBalls.genruntimeconfig.cache
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\White&BlackBalls\White&BlackBalls\obj\Debug\net8.0\ref\White&BlackBalls.dll

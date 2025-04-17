@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive - Muscat College\\Desktop\\Makeen-2 Laps\\Triangle-PS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4250EF1-6134-48C5-8602-43C1382825DB}|Triangle-PS\\Triangle-PS.csproj|c:\\users\\hp\\onedrive - muscat college\\desktop\\makeen-2 laps\\triangle-ps\\triangle-ps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4250EF1-6134-48C5-8602-43C1382825DB}|Triangle-PS\\Triangle-PS.csproj|solutionrelative:triangle-ps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Muscat College\\Desktop\\Makeen-2 Laps\\Triangle-PS\\Triangle-PS\\Program.cs",
+              "RelativeDocumentMoniker": "Triangle-PS\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Muscat College\\Desktop\\Makeen-2 Laps\\Triangle-PS\\Triangle-PS\\Program.cs",
+              "RelativeToolTip": "Triangle-PS\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:43:35.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

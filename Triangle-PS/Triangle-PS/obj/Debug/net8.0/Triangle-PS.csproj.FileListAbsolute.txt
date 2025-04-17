@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\bin\Debug\net8.0\Triangle-PS.exe
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\bin\Debug\net8.0\Triangle-PS.deps.json
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\bin\Debug\net8.0\Triangle-PS.runtimeconfig.json
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\bin\Debug\net8.0\Triangle-PS.dll
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\bin\Debug\net8.0\Triangle-PS.pdb
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\obj\Debug\net8.0\Triangle-PS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\obj\Debug\net8.0\Triangle-PS.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\obj\Debug\net8.0\Triangle-PS.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\obj\Debug\net8.0\Triangle-PS.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\obj\Debug\net8.0\Triangle-PS.dll
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\obj\Debug\net8.0\refint\Triangle-PS.dll
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\obj\Debug\net8.0\Triangle-PS.pdb
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\obj\Debug\net8.0\Triangle-PS.genruntimeconfig.cache
+C:\Users\hp\OneDrive - Muscat College\Desktop\Makeen-2 Laps\Triangle-PS\Triangle-PS\obj\Debug\net8.0\ref\Triangle-PS.dll
