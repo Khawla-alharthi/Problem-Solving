@@ -1,0 +1,34 @@
+namespace AbsluteDifference
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] matrix = {
+                {11, 2, 4 },
+                {4, 5, 6 },
+                {10, 8, -12 } 
+            };
+
+            // assume n is the value of the matrix lenght. which is 3
+            int n = matrix.GetLength(0);
+
+            
+            int firstDiagonalSum = 0;
+            int secondDiagonalSum = 0;
+
+            // loop through each row on the matrix
+            for (int i = 0; i < n; i++)
+            {
+                // from the lft top the right bottom 
+                firstDiagonalSum += matrix[i, i];
+                // from the top right to the left bottom
+                secondDiagonalSum += matrix[i, n - i - 1];
+            }
+
+            // abslute differance of the diagonals
+            int subtract = Math.Abs(firstDiagonalSum - secondDiagonalSum);
+            Console.WriteLine("Abslute Difference: " + subtract);
+        }
+    }
+}
