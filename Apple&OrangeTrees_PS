@@ -1,0 +1,36 @@
+namespace Apple_OrangeTrees_PS
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int s = 7;
+            int t = 10;
+            int a = 4;
+            int b = 12;
+            int[] apples = { 2, 3, -4 };
+            int[] oranges = { 3, -2, -4 };
+
+            int countApples = 0;
+            int countOranges = 0;
+
+            foreach (int d in apples)
+            {
+                int applePosition = a + d;
+                if (applePosition >= s && applePosition <= t)
+                {
+                    countApples++;
+                }
+            }
+            foreach (int d in oranges)
+            {
+                int orangePosition = b + d;
+                if (orangePosition >= s && orangePosition <= t)
+                {
+                    countOranges++;
+                }
+            }
+            Console.WriteLine($"{countApples} apple and {countOranges} oranges fall inside the house!!");
+        }
+    }
+}
