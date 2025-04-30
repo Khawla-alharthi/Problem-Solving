@@ -1,0 +1,46 @@
+using System.Linq;
+
+namespace CrossingPath_PS
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] lines = { 2, 1, 1, 2};
+            Console.WriteLine(IsPathCrossing(lines));
+        }
+        static bool IsPathCrossing(int[] lines)
+        {
+            int x = 0;
+            int y = 0;
+            //trach every visited point 
+            var Vpoint = new HashSet<string>();
+            Vpoint.Add($"{x},{y}");
+            
+            int direction = 0;
+
+            foreach (int line in lines)
+            {
+                for (int i = 0; i < line; i++)
+                {
+                    if (direction == 0) y++; //north
+                    else if(direction == 1) x--; //west
+                    else if(direction == 2) y--; //south
+                    else if(direction == 3) x++; //east
+
+                    string Cpoint = $"{x},{y}";
+
+                    if (Vpoint.Contains(Cpoint))
+                    {
+                        return true;
+                    }
+
+                    Vpoint.Add(Cpoint);
+                }
+                // keeps the direction between 0 and 3
+                direction = (direction + 1) % 4;
+            }
+            return false;
+        }
+    }
+}
